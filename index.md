@@ -1,9 +1,13 @@
----
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
-title: My Great Homepage
-icon: fa-home
-order: 1
----
+## [](#header-2)Quem sou eu?
+Sou Beatriz Rodrigues Estevam, estudante do curso tecnico de Programação de Jogos Digitais()-IFRN, campus Ceará-Mirim
+
+#### [](#header-4)Contatos:  
+
+*  E-mail: bia.rodrigues4567@gmail.com
+*  Instagram: beatrizre_
+
+## [](#header-2)Portfólio:
+### [](#header-3)Games
+
+### Small image
+![](Bia.jpg)
