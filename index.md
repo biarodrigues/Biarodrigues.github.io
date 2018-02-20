@@ -1,31 +1,9 @@
 ---
-layout: default
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: home
+title: My Great Homepage
+icon: fa-home
+order: 1
 ---
-
-Criando minha **página**, principal.
-
-# Quem sou eu?
-SÓ ME FERRO NESSE CURSO. **QUERO MINHA MAINHA**
-
-## GAMES
-## Artes
-## Apresentações
-* Aula de Multimidia
-* Aula de Motores
-*Aula de Oficina
-
-## Projetos
-
-* * *
-
-** negrito
-
-_ italico
-
-~~ riscado
-
-   dois espaço p/ pular linha
- 3* adciona uma linha horizontal
- #s uma ou mais hashtag criam capitulos ou sub capitulos
- 
- * * *
