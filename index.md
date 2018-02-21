@@ -1,21 +1,28 @@
-## [](#header-2)Quem sou eu?
+## [](#header-2)Quem sou eu?  
+
 Sou Beatriz Rodrigues Estevam, estudante do curso técnico integrado de Programação de Jogos Digitais(2015.1)-IFRN, campus Ceará-Mirim.
+  
+  ![]( 	certa6.png)
+
 
 #### [](#header-4)Contatos:  
 
 *  E-mail: bia.rodrigues4567@gmail.com
 *  Instagram: beatrizre_
+  
+  
+## [](#header-2)Portfólio  
 
-## [](#header-2)Portfólio
-### [](#header-3)Games  
+### [](#header-3)Games   
+
 1.  
 2.  Fono Kids
 3.  Que país é esse?  
+
 ### [](#header-3)Artes
 
+![](fk6.png)
 
-### Small image
-![]()
 
 
 ## [](#header-2)Participação em eventos:
@@ -26,4 +33,20 @@ Sou Beatriz Rodrigues Estevam, estudante do curso técnico integrado de Programa
 >
 > Epo games(2016), UFRN-IMD, presenciando durante todo o dia.
 >
-> III Encontro de Informática do Agreste Potiguar(2018), IFRN Nova Cruz, exposição do protótipo do jogo Fono Kids.
+> III Encontro de Informática do Agreste Potiguar(2018), IFRN Nova Cruz, exposição do protótipo do jogo Fono Kids.  
+
+  
+ > ![](fkap.png)  
+ >  
+ > ![](jorg.jpg)  
+ >  
+ > ![](tam5.1.jpg)
+      
+ ## [](#header-2)Galeria  
+    
+ https://www.youtube.com/watch?v=ew5a4t53OMw  
+   
+ 
+      
+   
+    
