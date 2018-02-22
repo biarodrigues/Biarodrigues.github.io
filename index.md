@@ -1,20 +1,25 @@
 ## [](#header-2)Quem sou eu?
-
-Sou Beatriz Rodrigues Estevam, estudante do curso técnico integrado de Programação de Jogos Digitais(2015.1)-IFRN, campus Ceará-Mirim.
   
+  
+Sou Beatriz Rodrigues Estevam, estudante do curso técnico integrado de Programação de Jogos Digitais(2015.1)-IFRN, campus Ceará-Mirim.
+    
+    
   ![]( 	certa6.png)
 
 
 #### [](#header-4)Contatos:  
-
+  
+  
 *  E-mail: bia.rodrigues4567@gmail.com
 *  Instagram: beatrizre_
   
   
 ## [](#header-2)Portfólio  
-
+  
+  
 ### [](#header-3)Games   
-
+  
+  
 [Jogo 1 oficina de criação : 
 ![]($.png)](https://wesleylandia.github.io/$/)
 
@@ -24,7 +29,8 @@ Sou Beatriz Rodrigues Estevam, estudante do curso técnico integrado de Programa
 [Jogo 3 oficina de criação : 
 ![]]
 
-
+  
+  
 ### [](#header-3)Artes
 
 
