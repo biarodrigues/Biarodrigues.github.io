@@ -82,7 +82,7 @@ Sou Beatriz Rodrigues Estevam, estudante do curso técnico integrado de Programa
       
    *  Áudio relacionado ao trabalho do quarto bimestre de sociologia, 2ºano.  
    
-  > ![](https://www.youtube.com/watch?v=ew5a4t53OMw)  
+  > (https://www.youtube.com/watch?v=ew5a4t53OMw)  
  
   > ![](fliperama.png)    
   >     
