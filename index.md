@@ -26,21 +26,21 @@ Sou Beatriz Rodrigues Estevam, estudante do curso técnico integrado de Programa
 [Jogo 2 oficina de criação :  
 ![](fk6.png)](https://jordanag.github.io/FonoKids2/)
 
-[Jogo 3 oficina de criação : 
+[Jogo 3 oficina de criação :  
 ![](jjogo3.png)](https://cavalcantebya.github.io/quepaiseesse/)
 
   
   
 ### [](#header-3)Artes
   
- > ![](jogo2.png)  
- >   
- > ![](Untitled-3.png)  
- >   
- > ![](jogo3.png)   
- >   
- > ![](bandeira3.png)  
- >   
+ > ![](jogo3.png)  
+ >  
+ > ![](jogo2.png)    
+ >  
+ > ![](Untitled-3.png)    
+ >           
+ > ![](bandeira3.png)       
+ >     
  > ![](jogoo3.png)  
  >   
  > ![]()
