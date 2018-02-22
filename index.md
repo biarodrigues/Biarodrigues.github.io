@@ -15,12 +15,14 @@ Sou Beatriz Rodrigues Estevam, estudante do curso técnico integrado de Programa
 
 ### [](#header-3)Games   
 
-[Jogo 1 oficina de criação : ] 
+[Jogo 1 oficina de criação : 
+![]($.png)](https://wesleylandia.github.io/$/)
 
 [Jogo 2 oficina de criação :  
 ![](fk6.png)](https://jordanag.github.io/FonoKids2/)
 
-[Jogo 3 oficina de criação : ![](gf.png)]Que país é esse?
+[Jogo 3 oficina de criação : 
+![]]
 
 
 ### [](#header-3)Artes
