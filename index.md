@@ -27,8 +27,6 @@ Sou Beatriz Rodrigues Estevam, estudante do curso técnico integrado de Programa
 
 ### [](#header-3)Artes
 
-![](fk6.png)
-
 
 
 ## [](#header-2)Participação em eventos:
