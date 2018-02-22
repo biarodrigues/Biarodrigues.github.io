@@ -15,9 +15,13 @@ Sou Beatriz Rodrigues Estevam, estudante do curso técnico integrado de Programa
 
 ### [](#header-3)Games   
 
-1.  
-2.  Fono Kids
-3.  Que país é esse?  
+[Jogo 1 oficina de criação : ] 
+
+[Jogo 2 oficina de criação :  
+![](fk6.png)](https://jordanag.github.io/FonoKids2/)
+
+[Jogo 3 oficina de criação : ![](gf.png)]Que país é esse?
+
 
 ### [](#header-3)Artes
 
@@ -44,9 +48,6 @@ Sou Beatriz Rodrigues Estevam, estudante do curso técnico integrado de Programa
       
  ## [](#header-2)Galeria  
     
- https://www.youtube.com/watch?v=ew5a4t53OMw  
+ https://www.youtube.com/watch?v=ew5a4t53OMw
+  
    
- 
-      
-   
-    
