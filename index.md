@@ -42,8 +42,8 @@ Sou Beatriz Rodrigues Estevam, estudante do curso técnico integrado de Programa
  > ![](bandeira3.png)       
  >     
  > ![](jogoo3.png)  
- >   
- > ![]()
+   
+ 
  
 
 
@@ -67,6 +67,7 @@ Sou Beatriz Rodrigues Estevam, estudante do curso técnico integrado de Programa
    
    ## [](#header-2)Galeria
     
- https://www.youtube.com/watch?v=ew5a4t53OMw
-  
+ https://www.youtube.com/watch?v=ew5a4t53OMw  
+ 
+  > ![]()
    
