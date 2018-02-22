@@ -21,7 +21,7 @@ Sou Beatriz Rodrigues Estevam, estudante do curso técnico integrado de Programa
   
   
 [Jogo 1 oficina de criação : 
-![]($.png)](https://wesleylandia.github.io/$/)
+![](11.png)](https://wesleylandia.github.io/$/)
 
 [Jogo 2 oficina de criação :  
 ![](fk6.png)](https://jordanag.github.io/FonoKids2/)
@@ -69,5 +69,13 @@ Sou Beatriz Rodrigues Estevam, estudante do curso técnico integrado de Programa
     
  https://www.youtube.com/watch?v=ew5a4t53OMw  
  
-  > ![]()
+  > ![](fliperama.png)    
+  >     
+  > ![](pauletes1.jpg)    
+  >      
+  > ![](tam5.jpg)    
+  >     
+  > ![](interface.png)    
+  >                
+  > ![](turm.jpg)  
    
