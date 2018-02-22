@@ -69,15 +69,15 @@ Sou Beatriz Rodrigues Estevam, estudante do curso técnico integrado de Programa
   
   *  Minha playlist para você  
   
-  > (https://www.youtube.com/watch?v=e0MP9Bmzp0g)     
-  > (https://www.youtube.com/watch?v=KrZHPOeOxQQ)  
-  > (https://www.youtube.com/watch?v=LYsaKn8FRhc)
-  > (https://www.youtube.com/watch?v=jrfRsdzi6dk)  
-  > (https://www.youtube.com/watch?v=hM5lO2PWnGk)  
-  > (https://www.youtube.com/watch?v=jaAcyvgJvjw)
-  > (https://www.youtube.com/watch?v=hM5lO2PWnGk)  
-  > (https://www.youtube.com/watch?v=KNIOYEmxtcg)  
-  > (https://www.youtube.com/watch?v=cPW9Y94BJI0)  
+  > [Ed Sheeran - Photograph (Felix Jaehn Remix)](https://www.youtube.com/watch?v=e0MP9Bmzp0g)     
+  > [](https://www.youtube.com/watch?v=KrZHPOeOxQQ)  
+  > [](https://www.youtube.com/watch?v=LYsaKn8FRhc)
+  > [](https://www.youtube.com/watch?v=jrfRsdzi6dk)  
+  > [](https://www.youtube.com/watch?v=hM5lO2PWnGk)  
+  > [](https://www.youtube.com/watch?v=jaAcyvgJvjw)
+  > [](https://www.youtube.com/watch?v=hM5lO2PWnGk)  
+  > [](https://www.youtube.com/watch?v=KNIOYEmxtcg)  
+  > [](https://www.youtube.com/watch?v=cPW9Y94BJI0)  
     
       
    *  Áudio relacionado ao trabalho do quarto bimestre de sociologia, 2ºano.  
