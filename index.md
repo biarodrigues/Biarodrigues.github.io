@@ -33,7 +33,18 @@ Sou Beatriz Rodrigues Estevam, estudante do curso técnico integrado de Programa
   
 ### [](#header-3)Artes
   
-  
+ > ![](jogo2.png)  
+ >   
+ > ![](Untitled-3.png)  
+ >   
+ > ![](jogo3.png)   
+ >   
+ > ![](bandeira3.png)  
+ >   
+ > ![](jogoo3.png)  
+ >   
+ > ![]()
+ 
 
 
 ## [](#header-2)Participação em eventos:
