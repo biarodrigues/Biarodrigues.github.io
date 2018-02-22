@@ -32,7 +32,8 @@ Sou Beatriz Rodrigues Estevam, estudante do curso técnico integrado de Programa
   
   
 ### [](#header-3)Artes
-
+  
+  
 
 
 ## [](#header-2)Participação em eventos:
@@ -46,13 +47,13 @@ Sou Beatriz Rodrigues Estevam, estudante do curso técnico integrado de Programa
 > III Encontro de Informática do Agreste Potiguar(2018), IFRN Nova Cruz, exposição do protótipo do jogo Fono Kids.  
 
   
- > ![](fkap.png)  ´~l,okokoplpçç
+ > ![](fkap.png)  
  >  
  > ![](jorg.jpg)  
  >  
  > ![](tam5.1.jpg)
       
- ## [](#header-2)Galeria  
+ ## [](Galeria) 
     
  https://www.youtube.com/watch?v=ew5a4t53OMw
   
