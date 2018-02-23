@@ -1,4 +1,4 @@
-## [](#header-2)Quem sou eu?
+## [](#header-2)Olá!
   
   
 Sou Beatriz Rodrigues Estevam, estudante do curso técnico integrado de Programação de Jogos Digitais(2015.1)-IFRN, campus Ceará-Mirim.
@@ -22,7 +22,7 @@ Sou Beatriz Rodrigues Estevam, estudante do curso técnico integrado de Programa
   
 [Jogo 1 oficina de criação :   
 ![](11.png)](https://wesleylandia.github.io/$/)  
-*  Jogo referente a matéria de oficina com o professor Marcelo Barros, no primeiro bimestre(2017.1). Você tem o objetivo de coletar moedas de locais diferentes para poder viajar. Vá lá, siga sempre em frente!!  
+*  Jogo referente a matéria de oficina com o professor Marcelo Barros, no primeiro bimestre(2017.1). Você tem o objetivo de coletar moedas de locais diferentes para poder viajar. Vá lá, siga sempre em frente!  
 
 
 [Jogo 2 oficina de criação :  
