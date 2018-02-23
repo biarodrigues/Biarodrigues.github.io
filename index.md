@@ -72,7 +72,7 @@ Sou Beatriz Rodrigues Estevam, estudante do curso técnico integrado de Programa
    
    ## [](#header-2)Galeria 
   
-  *  Minha playlist para você  
+  *  Um pouco da minha playlist para você  
     
   > [Wesley Safadão - Tem cara, tem cheiro, tem nome](https://www.youtube.com/watch?v=rDfXIzLDEsk)
   > [Ed Sheeran - Photograph (Felix Jaehn Remix)](https://www.youtube.com/watch?v=e0MP9Bmzp0g)     
@@ -103,5 +103,5 @@ Sou Beatriz Rodrigues Estevam, estudante do curso técnico integrado de Programa
     O melhor professor de interface que os alunos de jogos poderiam ter tido. "Marcelo Mesmo/Paçoca".
   >                
   > ![](turm.jpg)  
-    Planetário, trabalho referente a matéria de geografia-Evaneide Melo. (2015)
+    Planetário, trabalho referente a matéria de geografia-Evaneide Melo(2015).
    
