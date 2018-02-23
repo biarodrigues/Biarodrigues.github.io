@@ -21,13 +21,18 @@ Sou Beatriz Rodrigues Estevam, estudante do curso técnico integrado de Programa
   
   
 [Jogo 1 oficina de criação :   
-![](11.png)](https://wesleylandia.github.io/$/)
+![](11.png)](https://wesleylandia.github.io/$/)  
+*  Jogo referente a matéria de oficina com o professor Marcelo Barros, no primeiro bimestre(2017.1). Você tem o objetivo de coletar moedas de locais diferentes para poder viajar. Vá lá, siga sempre em frente!!  
+
 
 [Jogo 2 oficina de criação :  
-![](fk6.png)](https://jordanag.github.io/FonoKids2/)
+![](fk6.png)](https://jordanag.github.io/FonoKids2/)  
+*  O protótipo do jogo Fono kids, requisito ao segundo bimestre(2017.1), tem como objetivo  cooperar para o processo terapêutico da reabilitação auditiva da criança de uma forma mais dinâmica, tanto para o paciente, como para o especialista que estará fazendo com que o seu trabalho seja mais divertido para a criança.  
+
 
 [Jogo 3 oficina de criação :  
-![](jjogo3.png)](https://cavalcantebya.github.io/quepaiseesse/)
+![](jjogo3.png)](https://cavalcantebya.github.io/quepaiseesse/)  
+Este jogo faz uma crítica a política brasileira. Jogo relacionado ao terceiro bimestre(2017.1).
 
   
   
@@ -78,19 +83,18 @@ Sou Beatriz Rodrigues Estevam, estudante do curso técnico integrado de Programa
   > [](https://www.youtube.com/watch?v=hM5lO2PWnGk)  
   > [](https://www.youtube.com/watch?v=KNIOYEmxtcg)  
   > [](https://www.youtube.com/watch?v=cPW9Y94BJI0)  
-    
       
-   *  Áudio relacionado ao trabalho do quarto bimestre de sociologia, 2ºano.  
+  *  Áudio relacionado ao trabalho do quarto bimestre de sociologia, 2ºano.
    
-  > (https://www.youtube.com/watch?v=ew5a4t53OMw)  
+  > [Rádio cultura e vida.](https://www.youtube.com/watch?v=ew5a4t53OMw)  
  
-  > ![](fliperama.png)    
+  > ![O fliperama foi uma atividade avaliativa da matéria de interface, com o professor Marcelo Barros, referente ao 1° ano letivo(2015).](fliperama.png)    
   >     
-  > ![](pauletes1.jpg)    
+  > ![Aula de campo em Ponta do Tubarão(2017), junto aos professores Paulo, Miguel e Videanny.](pauletes1.jpg)    
   >      
-  > ![](tam5.jpg)    
+  > ![Apresentação de dança(2016), referente a matéria de Educação física-professora Bete.](tam5.jpg)    
   >     
-  > ![](interface.png)    
+  > ![O melhor professor de interface que os alunos de jogos poderiam ter tido. "Marcelo Mesmo/Paçoca".](interface.png)    
   >                
-  > ![](turm.jpg)  
+  > ![Planetário, trabalho referente a matéria de geografia-Evaneide Melo. (2015)](turm.jpg)  
    
