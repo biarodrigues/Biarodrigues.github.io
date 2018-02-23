@@ -70,7 +70,7 @@ Sou Beatriz Rodrigues Estevam, estudante do curso técnico integrado de Programa
  > ![](tam5.1.jpg)
       
    
-   ## [](#header-2)Galeria  
+   ## [](#header-2)Galeria 
   
   *  Minha playlist para você  
     
