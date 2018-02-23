@@ -89,7 +89,10 @@ Sou Beatriz Rodrigues Estevam, estudante do curso técnico integrado de Programa
   > [Rádio cultura e vida.](https://www.youtube.com/watch?v=ew5a4t53OMw)  
     
   *  Fotos  
-   
+  
+  > ![](mapinfluence.png)  
+    O influence map foi uma atividade relacioanada a matéria de motores(4°bimestre-2017.2), para ajudar a influenciar a criação do meu jogo  
+  >   
   > ![](fliperama.png)  
     O fliperama foi uma atividade avaliativa da matéria de interface, com o professor Marcelo Barros, referente ao 1° ano letivo(2015).
   >     
