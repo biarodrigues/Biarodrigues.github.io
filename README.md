@@ -1,4 +1,4 @@
-_Beatriz Rodrigues
+# Beatriz Rodrigues
   
-  
-Site para apresentação do projetos feitos na máteria de Oficina de Jogos Digitais
+ _19 anos, Natalense e espivitada. Sejam bem-vindos ao meu site pessoal.  
+ *  Críticas, sugestões e convesar sobre vários nadas ou tudo, entre em contato comigo.
