@@ -1,7 +1,7 @@
 ## [](#header-2)Olá!
   
   
-Sou Beatriz Rodrigues Estevam, estudante do curso técnico integrado de Programação de Jogos Digitais(2015.1)-IFRN, campus Ceará-Mirim.
+Sou Beatriz Rodrigues Estevam, estudante do curso técnico integrado de Programação de Jogos Digitais(2015.1)-IFRN - campus Ceará-Mirim.
     
     
   ![]( 	certa6.png)
@@ -70,7 +70,7 @@ Sou Beatriz Rodrigues Estevam, estudante do curso técnico integrado de Programa
  > ![](tam5.1.jpg)
       
    
-   ## [](#header-2)Galeria 
+ ## [](#header-3)Galeria
   
   *  Um pouco da minha playlist para você  
     
